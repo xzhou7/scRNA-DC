@@ -1,0 +1,8 @@
+library_id,molecule_h5,Status
+ST05-1,/BaaS/labs/marlener/Toshie/cellranger_count/ST05-1/outs/molecule_info.h5,CNT
+ST06,/BaaS/labs/marlener/Toshie/cellranger_count/ST06/outs/molecule_info.h5,CNT
+ST11-1,/BaaS/labs/marlener/Toshie/cellranger_count/ST11-1/outs/molecule_info.h5,CNT
+ST15-1,/BaaS/labs/marlener/Toshie/cellranger_count/ST15-1/outs/molecule_info.h5,CNT
+ST19,/BaaS/labs/marlener/Toshie/cellranger_count/ST19/outs/molecule_info.h5,IPAH
+ST20,/BaaS/labs/marlener/Toshie/cellranger_count/ST20/outs/molecule_info.h5,IPAH
+ST21,/BaaS/labs/marlener/Toshie/cellranger_count/ST21/outs/molecule_info.h5,IPAH
