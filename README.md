@@ -8,22 +8,22 @@ R version 4.1.1 (2021-08-10)
 Platform: x86_64-apple-darwin17.0 (64-bit)
 Running under: macOS Big Sur 11.6
 
-Matrix products: default
+#### Matrix products: default
 LAPACK: /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRlapack.dylib
 
-locale:
+#### locale:
 [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
 
-attached base packages:
+#### attached base packages:
 [1] parallel  stats4    stats     graphics  grDevices utils     datasets  methods   base     
 
-other attached packages:
+#### other attached packages:
  [1] cowplot_1.1.1               scales_1.1.1                ggrepel_0.9.1               DESeq2_1.32.0               SummarizedExperiment_1.22.0
  [6] Biobase_2.52.0              MatrixGenerics_1.4.3        matrixStats_0.61.0          GenomicRanges_1.44.0        GenomeInfoDb_1.28.4        
 [11] IRanges_2.26.0              S4Vectors_0.30.2            BiocGenerics_0.38.0         ggsci_2.9                   ggpubr_0.4.0               
 [16] ggplot2_3.3.5               Matrix_1.3-4                dplyr_1.0.7                 SeuratObject_4.0.2          Seurat_4.0.4               
 
-loaded via a namespace (and not attached):
+#### loaded via a namespace (and not attached):
   [1] readxl_1.3.1           backports_1.2.1        plyr_1.8.6             igraph_1.2.6           lazyeval_0.2.2         splines_4.1.1         
   [7] BiocParallel_1.26.2    listenv_0.8.0          scattermore_0.7        digest_0.6.28          htmltools_0.5.2        fansi_0.5.0           
  [13] memoise_2.0.0          magrittr_2.0.1         tensor_1.5             cluster_2.1.2          ROCR_1.0-11            openxlsx_4.2.4        
